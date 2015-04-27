@@ -9,7 +9,7 @@
     },
     {
     	"name": "Factory Method",
-    	"definition": "Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses."
+    	"definition": "Define an interface for creating an object, but let subclasses decide which class to instantiate. This pattern lets a class defer instantiation to subclasses."
     },
     {
     	"name": "Prototype",
@@ -21,7 +21,7 @@
     },
     {
     	"name": "Adapter",
-    	"definition": "Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces."
+    	"definition": "Convert the interface of a class into another interface clients expect. This pattern lets classes work together that couldn't otherwise because of incompatible interfaces."
     },
     {
     	"name": "Bridge",
@@ -29,15 +29,15 @@
     },
     {
     	"name": "Composite",
-    	"definition": "Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly."
+    	"definition": "Compose objects into tree structures to represent part-whole hierarchies. This pattern lets clients treat individual objects and compositions of objects uniformly."
     },
     {
     	"name": "Decorator",
-    	"definition": "Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality."
+    	"definition": "Attach additional responsibilities to an object dynamically. This pattern provides a flexible alternative to subclassing for extending functionality."
     },
     {
     	"name": "Facade",
-    	"definition": "Provide a unified interface to a set of interfaces in a subsystem. Façade defines a higher-level interface that makes the subsystem easier to use."
+    	"definition": "Provide a unified interface to a set of interfaces in a subsystem. This pattern defines a higher-level interface that makes the subsystem easier to use."
     },
     {
     	"name": "Flyweight",
@@ -65,7 +65,7 @@
     },
     {
     	"name": "Mediator",
-    	"definition": "Define an object that encapsulates how a set of objects interact. Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently."
+    	"definition": "Define an object that encapsulates how a set of objects interact. This pattern promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently."
     },
     {
     	"name": "Memento",
@@ -81,14 +81,14 @@
     },
     {
     	"name": "Strategy",
-    	"definition": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+    	"definition": "Define a family of algorithms, encapsulate each one, and make them interchangeable. This pattern lets the algorithm vary independently from clients that use it."
     },
     {
     	"name": "Template Method",
-    	"definition": "Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure."
+    	"definition": "Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. This pattern lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure."
     },
     {
     	"name": "Visitor",
-    	"definition": "Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates."
+    	"definition": "Represent an operation to be performed on the elements of an object structure. This pattern lets you define a new operation without changing the classes of the elements on which it operates."
     }
 ]
